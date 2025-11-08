@@ -1,0 +1,16 @@
+# macOS
+.DS_Store
+
+# Editors
+.vscode/
+.history/
+
+# Large or sensitive data (prevent accidents)
+data/
+downloads/
+secrets/
+*.parquet
+*.feather
+*.arrow
+*.zip
+*.gz
